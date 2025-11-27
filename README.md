@@ -1,17 +1,36 @@
 # LALITGITMLK-README
 My Profile README
+
 # Hey, I'm [LALITGITMLK]! 👋
 
-Cyber sec proffesional. I love tinkering with tools that make the internet safer.
+Cyber security professional passionate about building tools and solutions to make the internet safer.
 
-## Skills
-- Python for scripting
-- Basics of ethical hacking
-- GitHub for sharing projects
+---
 
-## Featured Project
-[![Password Strength Checker](https://img.shields.io/badge/Project-Password%20Checker-blue)](https://github.com/your-username/PasswordStrengthChecker)
-A tool to check and strengthen passwords—my dive into cyber security.
+## 🚀 Successful Projects
 
-## Fun Fact
-I'm always learning—hit me up for collab ideas!
+### 🔝 [Tor Detection Framework](https://github.com/LALITGITMLK/Tor-Detection-Framework-mlk)
+A production-ready, risk-based detection suite for identifying Tor relay traffic and abuse within Microsoft Defender XDR and Sentinel environments.  
+- Dynamic hunting queries with risk scores
+- Playbooks and Sigma rules for automated defense  
+- Enrichment, allowlisting, and deep documentation
+
+### 🛡️ [SOC PowerShell Scripts Use Cases & Audit Toolkit](https://github.com/LALITGITMLK/SOC-PowerShellScripts-UseCases-Analysis-Audit)
+A master toolkit of 70+ modular PowerShell scripts to automate Security Operations Center workflows:  
+- Domain & certificate audits
+- Threat analysis and IOC enrichment
+- Runbooks, SOPs, and comprehensive documentation
+
+---
+
+## 💡 Skills
+- Python scripting for infosec automation
+- PowerShell for Windows & SOC automation
+- Detection engineering and threat hunting (KQL, Sigma)
+- GitHub for sharing and collaborating
+
+---
+
+## 📫 Fun Fact
+
+I'm always learning—hit me up for collab ideas, bug hunts, or threat detection brainstorms!
